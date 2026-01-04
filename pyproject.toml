@@ -1,0 +1,27 @@
+[project]
+name = "mads-deployment"
+version = "0.1.0"
+description = "Code for the deployment classes"
+authors = [
+    { name = "Raoul Grouls", email = "Raoul.Grouls@han.nl" }
+]
+dependencies = [
+    "loguru>=0.7.2",
+    "pandas>=2.2.3",
+    "seaborn>=0.13.2",
+    "fastapi>=0.115.5",
+    "uvicorn>=0.32.1",
+    "pyarrow>=18.1.0",
+    "scikit-learn>=1.5.2",
+]
+readme = "README.md"
+requires-python = ">= 3.12"
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1.1",
+    "isort>=5.13.2",
+    "ruff>=0.8.0",
+    "pyright>=1.1.389",
+    "notebooktester>=0.2.1",
+]
