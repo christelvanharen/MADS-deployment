@@ -1,0 +1,4 @@
+# file: /Users/christelvanharen/MADS/Semester 3/MADS-deployment/2-frontend/straattaal/backend/app.py
+# hypothesis_version: 6.148.2
+
+[1.0, 500, '../artefacts', '/', '/generate', '/health', '/starred', '/static', '/unstarred', '0.0.0.0', '5 MB', '__main__', 'app.log', 'artefacts', 'config.json', 'frontend', 'index.html', 'logs', 'model', 'model.pth', 'ok', 'r', 'serving index.html', 'static', 'status', 'tokenizer', 'tokenizer.json']

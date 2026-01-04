@@ -1,0 +1,4 @@
+# file: /Users/christelvanharen/MADS/Semester 3/MADS-deployment/2-frontend/straattaal/src/slanggen/models.py
+# hypothesis_version: 6.148.2
+
+[0.2, 1.0, '</s>', '<mask>', '<pad>', '<s>', '<unk>', 'embedding_dim', 'hidden_dim', 'num_layers', 'vocab_size']
